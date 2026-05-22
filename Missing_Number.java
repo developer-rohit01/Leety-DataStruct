@@ -1,5 +1,4 @@
 class Missing_Number {
-     ;
   public static void main(String[] args) {
      Missing_Number s = new Missing_Number();
     int[] num = {3,0,1};
