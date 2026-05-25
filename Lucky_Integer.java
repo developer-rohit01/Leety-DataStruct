@@ -1,4 +1,12 @@
-class Solution {
+import java.util.HashMap;
+
+class Lucky_Integer {
+   public static void main(String[] args) {
+        Lucky_Integer obj = new Lucky_Integer();
+        int[] arr = {1,1,1,3};
+        System.out.println(obj.findLucky(arr));
+    }
+    
     public int findLucky(int[] arr) {
         HashMap<Integer,Integer> hm = new HashMap<>();
 
