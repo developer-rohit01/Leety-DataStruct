@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0042-trapping-rain-water) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -13,4 +14,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
