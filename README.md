@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
