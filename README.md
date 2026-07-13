@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0287-find-the-duplicate-number) |
+| [1046-last-stone-weight](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1046-last-stone-weight) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
