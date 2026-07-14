@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1046-last-stone-weight) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0287-find-the-duplicate-number) |
+| [0881-boats-to-save-people](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0215-kth-largest-element-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0881-boats-to-save-people) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Heap (Priority Queue)
 |  |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0724-find-pivot-index) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
