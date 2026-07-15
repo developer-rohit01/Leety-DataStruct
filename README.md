@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0443-string-compression) |
 | [0881-boats-to-save-people](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
@@ -95,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
