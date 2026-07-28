@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0443-string-compression) |
+| [1446-consecutive-characters](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1446-consecutive-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Recursion
 |  |
