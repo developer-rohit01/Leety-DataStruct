@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0881-boats-to-save-people) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Heap (Priority Queue)
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0242-valid-anagram) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Union-Find
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0443-string-compression) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0921-minimum-add-to-make-parentheses-valid) |
