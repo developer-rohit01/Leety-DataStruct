@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1046-last-stone-weight) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1572-matrix-diagonal-sum](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1572-matrix-diagonal-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0394-decode-string) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
