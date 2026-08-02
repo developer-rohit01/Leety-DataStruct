@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0128-longest-consecutive-sequence) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0066-plus-one) |
 ## Divide and Conquer
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1572-matrix-diagonal-sum) |
