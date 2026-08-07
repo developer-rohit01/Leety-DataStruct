@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0151-reverse-words-in-a-string) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0328-odd-even-linked-list) |
