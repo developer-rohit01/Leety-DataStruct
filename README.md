@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0867-transpose-matrix) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0287-find-the-duplicate-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0989-add-to-array-form-of-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0881-boats-to-save-people) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Heap (Priority Queue)
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0268-missing-number) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 ## Union-Find
 |  |
@@ -107,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
