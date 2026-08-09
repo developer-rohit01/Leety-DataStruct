@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0231-power-of-two) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0394-decode-string) |
 ## Matrix
