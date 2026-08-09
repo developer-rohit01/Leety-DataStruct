@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0059-spiral-matrix-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0242-valid-anagram) |
