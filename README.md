@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0059-spiral-matrix-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0141-linked-list-cycle) |
