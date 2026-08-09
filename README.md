@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0881-boats-to-save-people) |
+| [0989-add-to-array-form-of-integer](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1046-last-stone-weight) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1572-matrix-diagonal-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0231-power-of-two) |
+| [0989-add-to-array-form-of-integer](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0989-add-to-array-form-of-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
 |  |
