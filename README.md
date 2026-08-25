@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0881-boats-to-save-people) |
 | [0989-add-to-array-form-of-integer](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0989-add-to-array-form-of-integer) |
+| [1019-next-greater-node-in-linked-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1046-last-stone-weight) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1572-matrix-diagonal-sum) |
@@ -58,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0042-trapping-rain-water) |
+| [1019-next-greater-node-in-linked-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/0328-odd-even-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/1019-next-greater-node-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/developer-rohit01/Leety-DataStruct/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
